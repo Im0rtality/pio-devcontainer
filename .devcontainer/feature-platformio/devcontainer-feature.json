@@ -1,0 +1,6 @@
+{
+    "name": "PlatformIO-Core",
+    "id": "platformio-core",
+    "version": "0.0.1",
+    "description": "Install PlatformIO-Core based on vendor instructions"    
+}
